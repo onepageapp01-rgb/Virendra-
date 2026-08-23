@@ -1,0 +1,10 @@
+{
+  "name": "23 October 2026 Countdown",
+  "short_name": "23 Oct Countdown",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#080d1c",
+  "theme_color": "#080d1c",
+  "description": "Countdown to 23 October 2026",
+  "icons": []
+}
